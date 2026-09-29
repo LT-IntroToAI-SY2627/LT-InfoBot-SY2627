@@ -22,3 +22,8 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+def greet_adriano():
+    return{
+        "name": "Adrian Ojeda",
+        "fun_fact": "I play the guitar and like football"
+    }
