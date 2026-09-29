@@ -22,3 +22,9 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+
+def greet_efrenA():
+    return {
+        "name": "Efren Albino",
+        "fun_fact": "I have 4 cats"
+    }
