@@ -22,3 +22,8 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+def greet_LeoL():
+    return {
+        "name": "Leo Lawrence",
+        "fun_fact": "I lived in London"
+    }
