@@ -6,10 +6,10 @@
 # Follow the exact format shown — do not edit anyone else's function.
 #
 # Format:
-#   def greet_firstnamelastinitial():
+#   def greet_zoeyb():
 #       return {
-#           "name": "Your Full Name",
-#           "fun_fact": "One fun fact about yourself"
+#           "name": "Zoey Brown",
+#           "fun_fact": "I like collecting rocks"
 #       }
 #
 # Example:
