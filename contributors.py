@@ -22,3 +22,8 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+def greet_firstnamelastinitial():
+    return {
+        "name": "Jhonxel De Jesus",
+        "fun_fact": "I love to play video games and do ceramics in my free time"
+    }
