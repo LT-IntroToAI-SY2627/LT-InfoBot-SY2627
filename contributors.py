@@ -22,3 +22,8 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+def greet_firstnamelastinitial():
+    return {
+        "Name": "Isaac Lewis",
+        "fun_fact": "I play soccer and enjoy reading science fiction novels."
+    }
