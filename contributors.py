@@ -22,3 +22,9 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+
+def greet_ashtonb():
+    return {
+        "name": "Ashton B.",
+        "fun_fact": "I enjoy swimming and have 3 dogs."
+    }
