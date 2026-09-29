@@ -25,5 +25,5 @@
 def greet_OlivierK():
     return {
         "name": "Olivier K",
-        "fun_fact": "I rock climb and love to watch motorsports"
+        "fun_fact": "I rock climb and love to watch motorsportsg"
     }
