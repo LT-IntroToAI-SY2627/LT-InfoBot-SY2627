@@ -22,3 +22,8 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+def greet_OlivierK():
+    return {
+        "name": "Olivier K",
+        "fun_fact": "I rock climb and love to watch motorsportsg"
+    }
