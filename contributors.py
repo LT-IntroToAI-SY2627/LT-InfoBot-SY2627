@@ -22,3 +22,8 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+def greet_JacksonK():
+    return {
+        "name": "Jackson K.",
+        "fun_fact": "I am the president of the Lane Tech Knitting club (we meet in 249 on Mondays)"
+    }
