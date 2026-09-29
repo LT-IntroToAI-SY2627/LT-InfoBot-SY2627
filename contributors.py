@@ -22,3 +22,9 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+
+def greet_markb():
+    return {
+        "name": "Mark Buenvenida",
+        "fun_fact": "I play hockey"
+    }
