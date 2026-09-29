@@ -22,3 +22,8 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+def greet_armandp():
+    return {
+        "name": "Armand P.",
+        "fun_fact": "I love eating different types of food"
+    }
