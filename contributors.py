@@ -22,3 +22,8 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+def greet_Noilm():
+    return {
+        "name": "Noil Masih",
+        "fun_fact": "I love to play basketball and video games"
+    }
