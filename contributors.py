@@ -22,3 +22,9 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+
+def greet_firstnamelastinitial():
+    return {
+        "name": "Connor Darge",
+        "fun_fact": "I saw the Lego Batman movie in 3D and I have seen it 80 times"
+    
