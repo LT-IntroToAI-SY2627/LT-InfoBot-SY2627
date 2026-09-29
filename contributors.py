@@ -11,7 +11,7 @@
 #           "name": "Your Full Name",
 #           "fun_fact": "One fun fact about yourself"
 #       }
-#
+
 # Example:
 #   def greet_alexj():
 #       return {
@@ -22,3 +22,8 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+def greet_torinl():
+    return {
+        "name" : "Torin Lee"
+        "fun_fact" : "I like to play guitar"
+    }
