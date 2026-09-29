@@ -21,4 +21,9 @@
 
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
+def greet_firstnamelastinitial():
+    return {
+        "name": "Trong Nguyen",
+        "fun_fact": "I love halo top ice cream"
+    }
 # =============================================================================
