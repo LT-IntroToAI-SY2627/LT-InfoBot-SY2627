@@ -22,3 +22,8 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+   def greet_emmaw():
+       return {
+           "name": "Emma Winter",
+           "fun_fact": "I love chocolate and enjoye baking desserts in my free time"
+       }
