@@ -22,3 +22,8 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+def greet_prestonb():
+    return {
+        "name": "Preston Brown",
+        "fun_fact": "I play soccer."
+    }
