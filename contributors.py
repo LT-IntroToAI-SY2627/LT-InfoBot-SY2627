@@ -27,6 +27,12 @@ def greet_simonaa():
         "fun_fact": "I like listening to music."
     }
 # =============================================================================
+def greet_jhonxelD():
+    return {
+        "name": "Jhonxel De Jesus",
+        "fun_fact": "I love to play video games and do ceramics in my free time"
+    }
+      
 def greet_mrberg():
     return {
         "name": "Mr Berg",
