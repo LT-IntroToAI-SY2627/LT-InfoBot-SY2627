@@ -22,3 +22,8 @@
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
 # =============================================================================
+def greet_mrberg():
+    return {
+        "name": "Mr Berg",
+        "fun_fact": "I play ultimate frisbee."
+    }
