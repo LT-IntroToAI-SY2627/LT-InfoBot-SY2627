@@ -21,6 +21,11 @@
 
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
+def greet_simonaa():
+    return {
+        "name": "Simona Arsic",
+        "fun_fact": "I like listening to music."
+    }
 # =============================================================================
 def greet_mrberg():
     return {
