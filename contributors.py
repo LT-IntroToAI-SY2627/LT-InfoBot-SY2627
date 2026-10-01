@@ -21,9 +21,20 @@
 
 # =============================================================================
 # STUDENT CONTRIBUTIONS — ADD YOUR FUNCTION BELOW
+def greet_simonaa():
+    return {
+        "name": "Simona Arsic",
+        "fun_fact": "I like listening to music."
+    }
 # =============================================================================
-def greet_firstnamelastinitial():
+def greet_jhonxelD():
     return {
         "name": "Jhonxel De Jesus",
         "fun_fact": "I love to play video games and do ceramics in my free time"
+    }
+      
+def greet_mrberg():
+    return {
+        "name": "Mr Berg",
+        "fun_fact": "I play ultimate frisbee."
     }
